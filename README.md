@@ -1,3 +1,6 @@
+I am learning Angular with OpenClassrooms and this is my first Angular project ! </br>
+https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+
 # Snapface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
